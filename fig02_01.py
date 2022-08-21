@@ -4,6 +4,8 @@
 print('Enter two integers and I will tell you', 
       'the relationships they satisfy.')
 
+# Alex Ledgerwood
+
 # read first integer
 number1 = int(input('Enter first integer: '))
 
